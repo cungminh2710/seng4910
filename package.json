@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "ipfs-api": "^13.0.0",
+    "ipfs-geoip": "^2.2.0",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "speedtest-net": "^1.3.1"
+  }
+}
